@@ -2,6 +2,8 @@
 
 Build a convolutional neural network for the hand-written digits recognition task with the MNIST data set. Use the cross-entropy error function, and run 5 epochs. Give the recognition accuracy rate and show the confusion matrix, both for the test set.
 
+![](images/Screenshot.png)
+
 ## Structure
 
 1. Input layer
